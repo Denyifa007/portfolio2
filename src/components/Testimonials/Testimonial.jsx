@@ -15,13 +15,13 @@ const Testimonial = () => {
             img: Tunder,
             name: "Tunde",
             review:
-                "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 'Content here, content here', making it look like readable English."
+                "The attention to detail and the constant updates show the developer's commitment to providing a top-notch experience."
         },
         {
             img: Sam,
             name: "Sam",
             review:
-                "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 'Content here, content here', making it look like readable English. "
+                "The seamless integration with other tools and services has saved me time and effort "
         },
         {
             img: Abiodun,
@@ -33,7 +33,7 @@ const Testimonial = () => {
             img: Ibrahim,
             name: "Ibrahim",
             review:
-                "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 'Content here, content here', making it look like readable English. "
+                "Using this tech app has been a game-changer for me. user-friendly, and packed with powerful features. The app has greatly simplified my workflow and helped me stay organized.  "
         }
     ]
 
