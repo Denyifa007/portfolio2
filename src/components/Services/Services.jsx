@@ -73,7 +73,7 @@ const Services = () => {
             <Card
                 emoji = {Humble}
                 heading = {'Project Manager'}
-                detail = {'Project supervising, Project Documnetation'}
+                detail = {'Project supervising, Project Documentation'}
                 />
             </animated.div>
             <div className='blur s-blur2' style={{ background: 'var(--purple)'}}>
